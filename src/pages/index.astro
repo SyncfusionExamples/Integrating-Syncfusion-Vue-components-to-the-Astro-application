@@ -1,0 +1,10 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Forum from '../components/Forum.vue';
+---
+
+<Layout title="Welcome to Astro.">
+	<main>
+		<Forum client:only />
+	</main>
+</Layout>
