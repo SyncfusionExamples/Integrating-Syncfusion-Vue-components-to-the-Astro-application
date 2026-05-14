@@ -1,3 +1,4 @@
+
 {
   "name": "ej2-astrojs",
   "type": "module",
@@ -10,11 +11,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.5.10",
-    "@astrojs/vue": "^4.0.9",
+    "@astrojs/check": "^0.9.0",
+    "@astrojs/vue": "^5.1.4",
     "@syncfusion/ej2-vue-buttons": "*",
     "@syncfusion/ej2-vue-richtexteditor": "*",
-    "astro": "5.14.3",
+    "astro": "5.15.5",
     "typescript": "^5.4.3",
     "vue": "^3.4.21"
   }
